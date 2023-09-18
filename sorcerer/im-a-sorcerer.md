@@ -1,0 +1,30 @@
+# I'm a Software Sorcerer
+
+For years, I had been on the outskirts of the DnD world. I'd watched Harmonquest, Vox Machina, and a little bit of Critical Role. I have friends who play DnD. I'd played games inspired by DnD. The internet serves me lists of DnD memes a least once a week that I read and enjoy! Basically, I've done everything but immerse myself in actual DnD licensed entertainment. That all changed with the release of a pretty well-known game. Perhaps [Baldur's Gate 3](https://baldursgate3.game/) rings a bell if you've recently spent any time on the internet. If DnD appeals to you and you haven't heard of it, I advise you to give it a search. It's wonderful and I have cannonballed into the rules and gameplay.
+
+![whats-this.gif](whats-this.gif)
+
+_Me diving into BG3_
+
+One of the most important questions that was finally cleared up for me was: What is the difference between a sorcerer and a wizard? I'd heard the class names bandied about and heard they were so different, but I didn't understand exactly what the difference was. I mean, they're both spellcasters , so weren't they basically the same thing? _(A bunch of wizards in a tower just blew their stacks over that.)_
+
+For anyone not in the know:
+
+- Wizards: Study to learn magic. They spend their time with their noses buried in ancient tomes learning how to rain fire down from the sky and the like.
+- Sorcerers: Naturally have the ability to cast spells. It's innate and instinctual.
+
+Before I launch into why I feel like a software sorcerer, I think it's important to mention that I'm absolutely not implying that I came out of the womb knowing how to program. I didn't just sit down at a computer one day and say "Hm. This makes sense." and then conjure a web app out of thin air while an increasingly complex piece of classical music crescendoed in the background. I'm very much not a prodigy, and I'm certainly not about to tell you that I have charisma, unlike those wizard nerds, because that's categorically false. I've been told I have a Daria-esque charm, and that's about the best compliment I've ever received. I'm also not saying that software wizards don't have the same instincts that software sorcerers do. This is real life. We're all multiclassed here. Now let me tell you about the wizards I've worked with.
+
+I have worked with guys that, given a staff and a hat, could have been cover art for a DnD manual. You've probably met at least one in your life. They're learned. They were around in the old times and know how things work under the covers because they were there when the deep magic was written. We talk about their exploits: like the time a guy I worked with wrote a test framework for Swift that the entire company used until an official one was released. We marvel at how they know the answer to pretty much any question right off the top of their heads. These wizards are few and far between though. Most of the wizards I know look more like this:
+
+![young-wizard.jpeg](young-wizard.jpeg)
+
+You don't need the glorious beard or age to be a wizard. I've worked with plenty of them that are younger than I am. They're passionate about learning everything at a deep level. They aren't satisfied with using a tool. They want to know how the tool works. They'll cultivate a large library of books because the want to read in-depth knowledge about subject. They don't know all the answers off the top of their head yet, but they are compiling them and cataloging them. A wizard will always be a huge benefit to a team. I cannot count the number of times one of them has come back to the team after a weekend saying they spent time reading a book about part of our tech stack and has a great idea of how to improve the performance of this one sticky area. I admire them greatly, but I am decidedly not one of them.
+
+I am a sorcerer. I don't have a CS degree or even a degree in an adjacent field. I took a chance on a software bootcamp and an apprenticeship and it worked out. I don't know all the algorithms or all the terms for design patterns. Very occasionally I've had another dev or two look down on me for this (such a wizard thing to do), but it's mostly a non-issue. You want to know why? I've probably had to write a complex algorithm once and I didn't need to have it memorized. Search engines exist. Other things came to me naturally. I think we can all look at code and see that it smells without needing to know exactly why. It's an innate ability. I've followed design patterns without knowing their names; just knowing why they're useful. It's instinct and logic. We sorcerers are the rapid prototypers. We dive in and start using the tools given to us without needing to know how they work (as long as they continue to work). We're happiest learning on the fly by seeing what happens when I try this or that. We search for the answers to problems as they come up. I'll read a blog post targeting my specific problem before I read a book covering a broader scope.
+
+![boring-book.gif](boring-book.gif)
+
+_Me trying to read a book on software_
+
+Wizards can absolutely function this way too and I think, over time, sorcerers become a bit more like wizards. After nearly ten years of experience as a software developer I feel distinctly more wizardy than I did earlier in my career, but I still feel the differences between me and my wizard colleagues. These difference I'm happy to celebrate though. It's important to have a well-balanced party in DnD and important to have a versatile team in real life. We have to learn to communicate in a way the other class likes: You can't tell a wizard "It just works." and you can't tell a sorcerer you're doing something "Because the book said to." Together we do amazing things. Add a DL into the mix (maybe a bard or paladin) and a UX designer (maybe an arcane trickster rogue) and we've got a party ready to head for a dungeon. Who really cares whether you're a sorcerer or a wizard. We're all just casting fireball anyway.
